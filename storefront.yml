@@ -91,7 +91,7 @@ collections:
     restock_cycle: "2026-Q2"
     restock_threshold: 12
     sku_count: 9
-    restock_form_url: "https://docs.google.com/forms/d/1QnWVya0FyYUDSVg14COyCedjb_yOGXI-SUMN4q9S9yY/viewform"
+    restock_form_url: "https://docs.google.com/forms/d/1igqbURzIKETY0X0wTdtKobp1xjBYJ3cyhUa0uPX-1WE/viewform"
     restock_banner:
       enabled: true
       headline: "Harbor Weave restock - 2 pieces sold out"
